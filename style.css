@@ -6,6 +6,9 @@ body{
     right: 0;
     background-color: rgba(153, 117, 214, 1);
 }
+.lie{
+    background-color:white;
+}
 #done{
     color: white;
     margin-left:50px;
